@@ -1,5 +1,7 @@
 # Pupa bits.
-_data
+
+# remove '_data' so that the _data directory gets pushed
+#_data 
 _cache
 
 # scraper bits
